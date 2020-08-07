@@ -1,11 +1,6 @@
 {
   "streams": [
     {
-      "title": "Title 4",
-      "description": "Description 4 : reuse form for edit",
-      "id": 4
-    },
-    {
       "title": "Title 5",
       "description": "Programmatic Navigation",
       "id": 5
