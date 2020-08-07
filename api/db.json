@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Title 4",
+      "description": "Description 4 : reuse form for edit",
+      "id": 4
+    },
+    {
+      "title": "Title 5",
+      "description": "Programmatic Navigation",
+      "id": 5
+    },
+    {
+      "title": "My stream",
+      "description": "my stream details",
+      "userId": "115581997243239236131",
+      "id": 6
+    }
+  ]
+}
