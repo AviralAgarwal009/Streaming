@@ -2,4 +2,4 @@ Streamy is a video live streaming service.Thorugh this web application user can 
 There are three entities playing role to : rtmp server , api server , react application.
 RTMP server helps in live streaming.
 API server stores and provides the information of the user , streams etc.
-React application shows stream by communication with rtmp server and api server.
+React application shows stream by communication with rtmp server and api server. 
